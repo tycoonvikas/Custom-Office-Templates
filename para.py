@@ -15,4 +15,5 @@ class TestMultiplyFunction(unittest.TestCase):
         self.assertEqual(multiply(x, y), expected)
 
 if __name__ == "__main__":
+    print("vikas")
     unittest.main()
